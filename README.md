@@ -1,2 +1,3 @@
-# JOBS_Sookmyung
+# JOB문 JOB답
 24-2 숙명여자대학교 졸업 프로젝트
+
